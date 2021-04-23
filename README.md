@@ -1,3 +1,3 @@
 # my_shop
 
-Just a practice app made with Flutter. The database service used is Firebase Realtime Database.
+A basic shopping app made with Flutter and Firebase Realtime Database.
